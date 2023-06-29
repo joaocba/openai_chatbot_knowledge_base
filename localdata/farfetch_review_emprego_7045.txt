@@ -1,0 +1,11 @@
+Esta é a informação de uma review de emprego redigida por um funcionário que trabalha ou trabalhou na empresa Farfetch onde os seguintes dados foram recolhidos e disponibilizados pela plataforma Teamlyzer:
+
+O titulo desta review de emprego sobre a Farfetch é "Excelente ambiente na empresa".
+A informação foi dada há 3 dias por um Programador de software Sénior na Farfetch.
+A tecnologia utilizada pelo funcionario na Farfetch foi javascript, react, typescript.
+A pontuação dada pelo funcionario sobre a experiencia de trabalho na Farfetch foi de 3.1/5.0.
+Comentários positivos dados pelo funcionario sobre a Farfetch: Pros: Bom ambiente na empresa. Bons benefícios. Possibilidade de trabalhar em projetos com milhões de utilizadores. Bom balanço entre trabalho/vida pessoal.
+Comentários negativos dados pelo funcionario sobre a Farfetch: Contras: Salário. Pouca proatividade por parte de alguns trabalhadores. Transparência de management.
+A localização de trabalho do funcionario na Farfetch foi Porto, Portugal.
+O ultimo ano do funcionario na empresa Farfetch foi 2023.
+O salario bruto mensal do funcionario na empresa Farfetch era de 2800€ - 3000€.

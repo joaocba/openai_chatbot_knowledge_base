@@ -1,0 +1,8 @@
+Esta é a informação de reviews de funcionários e candidatos (com base em 200 reviews) sobre a empresa Farfetch onde os seguintes dados foram recolhidos e disponibilizados pela plataforma Teamlyzer:
+
+A taxa de recomendação de funcionários e candidatos para a empresa Farfetch é de 56%.
+O número de horas trabalhadas em média por dia na Farfetch são 07:55h.
+A taxa de feedback das entrevistas realizadas pela Farfetch é de 74%.
+O salário médio bruto mensal da Farfetch é 2,165€ - 2,365€. A média da industria é de 1,969€ - 2,169€.
+A pontuação de dificuldade das entrevistas da Farfetch é de 2.5/5.0.
+O tempo médio investido em entrevistas na Farfetch é de 02:21h.
