@@ -1,12 +1,3 @@
-"""
-The code imports tiktoken module to define a function num_tokens_from_messages() which calculates the number of tokens in a list of messages. The function takes two arguments: messages and model which is set to "gpt-3.5-turbo" by default.
-
-The function first tries to get the encoding for the given model, and if it's not available, it uses the cl100k_base encoding. Then it calculates the number of tokens by iterating over each message in the messages list and adding the fixed number of tokens for each message. It also calculates the number of tokens for the name and content in each message and subtracts one if the message has a name. Finally, it adds two tokens as every reply is primed with <im_start>assistant.
-
-The NotImplementedError will be raised for any model other than "gpt-3.5-turbo".
-"""
-
-
 import tiktoken
 
 # Definir o papel do sistema
