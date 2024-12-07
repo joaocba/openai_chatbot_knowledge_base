@@ -14,7 +14,7 @@ from _config import SYSTEM_PROMPT, count_tokens_from_messages
 load_dotenv()
 
 # Definir a chave API da OpenAI
-openai.api_key = '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'
+openai.api_key = 'PLACE_OPEN_AI_API_KEY'
 
 # Definir dicionários
 DATABLOCKS: dict[str, str] = {}
